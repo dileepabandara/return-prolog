@@ -1,5 +1,3 @@
-# return-prolog
- Prolog beginner level lessons
 # 🏷️ Return Prolog
 
 <!-- ![prolog Logo](https://img.icons8.com/color/98/000000/prolog.png) -->
